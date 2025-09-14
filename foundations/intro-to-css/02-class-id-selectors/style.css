@@ -1,7 +1,7 @@
 /* Add CSS Styling */
 .odd{
     background-color:rgb(202, 106, 154);
-    font-family: verdana, dejavu sans,sans-serif;
+    font-family: verdana, "dejavu sans",sans-serif;
 }
 #id2{
     color:blue;
